@@ -1,0 +1,5 @@
+Sample project in Vaadin 6 with usage of:
+- MVP pattern
+- event bus for widget communication
+- test case approach
+- separation of modules
