@@ -1,0 +1,40 @@
+/* Overwriting default button styles */
+.v-button,.v-button-prevyear,.v-button-prevmonth,.v-button-nextmonth,.v-button-nextyear
+	{
+	border: solid 1px #afc0cf;
+	color: #365663;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	background-image: url(../img/bg_button_medium.jpg);
+	background-position: right;
+	padding: 5px 8px;
+	text-decoration: none;
+	background-repeat: repeat-x;
+	outline: none;
+	margin: 0 2px;
+}
+
+.v-button:hover,.v-button-prevyear:hover,.v-button-prevmonth:hover,.v-button-nextmonth:hover,.v-button-nextyear:hover
+	{
+	background-image: url(../img/bg_button_medium_hover.jpg);
+}
+
+/* Additional button styles */
+.v-button-our-result-header {
+	font-weight: bolder;
+	font-size: 14px;
+}
+
+.v-link-button {
+	border: none;
+	background: none;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+.v-link-button:hover {
+	background: none;
+}
+

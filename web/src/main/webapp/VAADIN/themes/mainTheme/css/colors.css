@@ -1,0 +1,99 @@
+.color0 {
+	background-color: #e10019 !important;
+}
+
+.color0:HOVER {
+	background-color: #f32231 !important;
+}
+
+.color1 {
+	background-color: #eb221d !important;
+}
+
+.color1:HOVER {
+	background-color: #fd443f !important;
+}
+
+.color2 {
+	background-color: #fe6025 !important;
+}
+
+.color2 :HOVER {
+	background-color: #ff8247 !important;
+}
+
+.color3 {
+	background-color: #ffa02d !important;
+}
+
+.color3:HOVER {
+	background-color: #ffc24f !important;
+}
+
+.color4 {
+	background-color: #ffc632 !important;
+}
+
+.color4:HOVER {
+	background-color: #ffe854 !important;
+}
+
+.color5 {
+	background-color: #c5d82a !important;
+}
+
+.color5:HOVER {
+	background-color: #e7fa4c !important;
+}
+
+.color6 {
+	background-color: #5eb830 !important;
+}
+
+.color6:HOVER {
+	background-color: #7fda52 !important;
+}
+
+.color7 {
+	background-color: #2caa2e !important;
+}
+
+.color7:HOVER {
+	background-color: #4ecc4f !important;
+}
+
+.color8 {
+	background-color: #00c42a !important;
+}
+
+.color8:HOVER {
+	background-color: #22e64c !important;
+}
+
+.color9 {
+	background-color: #00d705 !important;
+}
+
+.color9:HOVER {
+	background-color: #22f927 !important;
+}
+
+.color0-text {
+	color: #000000;
+}
+
+.color-alarm {
+	color: #AA0013 !important;
+}
+
+.color-green {
+	color: #008300 !important;
+}
+
+.color-ok {
+	color: #3910E0 !important;
+}
+
+.bold {
+	font-weight: bold;
+}

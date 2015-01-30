@@ -1,0 +1,20 @@
+/* Overriding default styles */ 
+
+.v-textarea-error,
+.v-textfield-error,
+.v-filterselect-error .v-filterselect-input, .v-datefield-error input  {
+	background: #FFE0E0;
+	background-image: none;	
+}
+
+.v-textfield-error, .v-textarea-error, .v-filterselect-error .v-filterselect-input, .v-datefield-error input{
+border: 1px solid red !important;
+}
+.v-textarea-required,
+.v-textfield-required,
+.v-filterselect {
+	
+}
+.v-required-field-indicator, .v-caption-clearelem, .v-errorindicator {
+	display: none;
+}
